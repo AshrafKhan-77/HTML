@@ -1,0 +1,9 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE>Hyperlink</TITLE>
+</HEAD>
+<BODY>
+<H1><a href="https://www.google.com">This is a hyperlink to Google</a><H1>
+</BODY>
+</HTML>
