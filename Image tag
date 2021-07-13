@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE>Image Tag</TITLE>
+</HEAD>
+<BODY>
+<H1>My first web page with image!</H1>
+<BR>
+<H2>ILY 3000</H2>
+<BR>
+<img src="Downy Jr/ironman.jpg" width=1250px height=600px>
+</BODY>
+</HTML>
