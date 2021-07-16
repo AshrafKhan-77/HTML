@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE>Tables and Borders</TITLE>
+<STYLE>
+TABLE, TH, TD {
+TEXT-ALIGN: CENTER;
+BORDER: 1px SOLID BLACK;
+MARGIN-LEFT: 50px;
+MARGIN-TOP: 50px;
+}
+</STYLE>
+</HEAD>
+<BODY>
+<TABLE>
+<TR> <TH>NAME</TH> <TH>SURNAME</TH> <TH>AGE</TH> <TR>
+<TR> <TD>Ashraf</TD> <TD>Khan</TD> <TD>19</TD> </TR>
+<TR> <TD>Raksha</TD> <TD>Upadhyay</TD> <TD>20</TD> </TR>
+<TR> <TD>Jay</TD> <TD>Deshmukh</TD> <TD>21</TD> </TR>
+</TABLE>
+</BODY>
+<HTML>
