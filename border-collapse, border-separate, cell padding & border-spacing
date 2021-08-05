@@ -1,0 +1,42 @@
+<!-- HTML5 code below... -->
+<!doctype html>
+<html>
+  <head>
+    <title>Table_border</title>
+    <link rel="stylesheet" type="text/css" href="CSS\Table_border_style.css">
+  </head>
+  <body>
+    <h1>Practical to demonstrate table collapse/separate property, cell padding and border spacing.</h1>
+    <table>
+      <th>First_Name</th> <th>Last_Name</th> <th>Age</th>
+      <tr>
+        <td>Ashraf</td> <td>Khan</td> <td>19</td>
+      </tr>
+      <tr>
+        <td>Raksha</td> <td>Upadhyay</td> <td>20</td>
+      </tr>
+      <tr>
+        <td>Jay</td> <td>Deshmukh</td> <td>21</td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+<!-- CSS code below... -->
+table, th, td {
+  border: 5px solid green;
+}
+table {
+  width: 50%;
+  border-spacing: 10px;
+  <!-- To collapse border:- border-collapse:collapse; -->
+  <!-- To separate border:- border-collapse:separate; -->
+}
+th {
+  color: red;
+  padding: 20px;
+}
+td {
+  color: blue;
+  padding: 10px;
+}
