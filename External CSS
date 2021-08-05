@@ -1,0 +1,21 @@
+<!-- External CSS.html code below: -->
+<!doctype html>
+<html>
+<head>
+<title>External CSS</title>
+<link rel="stylesheet" type="text/css" href="CSS\External_CSS_style.css">
+</head>
+<body>
+<h1>External CSS and Image tag</h1>
+<img src="ironman.jpg" width=450px height=300px>
+</body>
+</html>
+
+<!-- External_CSS_style.css code below: -->
+h1 {
+margin-left:250px
+}
+img {
+margin-left:250px;
+border:30px solid red;
+}
