@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE>Ordered List</TITLE>
+</HEAD>
+<BODY>
+<H1>Practical to demonstrate use of Ordered List</H1>
+<H2>Grocery List</H2>
+<OL type=i>
+<LI>Bread</LI>
+<LI>Butter</LI>
+<LI>Maggi</LI>
+<LI>Egg</LI>
+<LI>Milk</LI>
+<LI>Coffee</LI>
+</OL>
+</BODY>
+</HTML>
