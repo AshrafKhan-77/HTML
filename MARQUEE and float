@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<HTML>
+	<HEAD>
+		<TITLE>MARQUEE and float</TITLE>
+		<STYLE>
+			.left {
+				background-color: orange;
+				color: white;
+			}
+			.right {
+				background-color: green;
+				color: white;
+			}
+			DIV {
+				border: 2px solid black;
+				margin: 10px;
+        float: left;
+        width: 150px;
+			}
+		</STYLE>
+	</HEAD>
+	<BODY>
+    <MARQUEE>
+      <DIV class="left">
+        <P>This is 1st DIV Tag</P>
+      </DIV>
+      <DIV>
+        <P>This is 2nd DIV Tag</P>
+      </DIV>
+      <DIV class="right">
+        <P>This is 3rd DIV Tag</P>
+      </DIV>
+    <MARQUEE>
+	</BODY>
+</HTML>
