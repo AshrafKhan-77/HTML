@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE>Unordered List</TITLE>
+</HEAD>
+<BODY>
+<H1>Practical to demonstrate use of Unordered List</H1>
+<H2>Grocery List</H2>
+<UL style="list-style-type: square">
+<LI>Bread</LI>
+<LI>Butter</LI>
+<LI>Maggi</LI>
+<LI>Egg</LI>
+<LI>Milk</LI>
+<LI>Coffee</LI>
+</UL>
+</BODY>
+</HTML>
