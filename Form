@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<HTML>
+
+<HEAD>
+<TITLE>Forms in HTML</TITLE>
+</HEAD>
+
+<BODY>
+<H2>Registration Form</H2>
+
+<FORM>
+<!-- TABLE is used to properly arrange the contents of the form -->
+<TABLE>
+<TR>
+<TD><LABLE>Name</LABLE></TD>
+<TD><INPUT type="textbox" name="name"/></TD>
+</TR>
+<TR>
+<TD><LABLE>Age</LABLE></TD>
+<TD><INPUT type="textbox" name="age"/></TD>
+<TR>
+<TR>
+<TD><LABLE>Mobile</LABLE></TD>
+<TD><INPUT type="textbox" name="mobile"/></TD>
+</TR>
+<TR>
+<TD valign=top><LABLE>Gender</LABLE></TD> 
+<TD>
+<INPUT type="radio" id="gender" name="gender"/>Male<br>
+<INPUT type="radio" id="gender" name="gender"/>Female<br>
+<INPUT type="radio" id="gender" name="gender"/>Others
+</TD>
+</TR>
+<TR>
+<TD valign=top><LABLE>Languages Known</LABLE></TD>
+<TD>
+<INPUT type="checkbox" id="skill" name="Java"/>Java<br>
+<INPUT type="checkbox" id="skill" name="C"/>C<br>
+<INPUT type="checkbox" id="skill" name="C++"/>C++<br>
+<INPUT type="checkbox" id="skill" name="HTML"/>HTML<br>
+<INPUT type="checkbox" id="skill" name="Python"/>Python
+<TD>
+</TR>
+<TR>
+<TD colspan="2" style="text-align: center;"><br><INPUT type="submit" value="SUBMIT"/></TD>
+</TR>
+</TABLE>
+</FORM>
+
+</BODY>
+
+</HTML>
