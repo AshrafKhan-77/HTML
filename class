@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<HTML>
+	<HEAD>
+		<TITLE>CLASS in HTML</TITLE>
+		<STYLE>
+			.top {
+				background-color: orange;
+				color: white;
+			}
+			.bottom {
+				background-color: green;
+				color: white;
+			}
+			DIV {
+				border: 2px solid black;
+				margin: 10px;
+			}
+		</STYLE>
+	</HEAD>
+	<BODY>
+		<DIV class="top">
+			<P>This is 1st DIV Tag</P>
+		</DIV>
+		<DIV>
+			<P>This is 2nd DIV Tag</P>
+		</DIV>
+		<DIV class="bottom">
+			<P>This is 3rd DIV Tag</P>
+		</DIV>
+	</BODY>
+</HTML>
