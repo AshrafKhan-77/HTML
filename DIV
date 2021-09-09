@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE>DIV Tag</TITLE>
+<STYLE>
+DIV {
+background-color: orange;
+color: white;
+}
+</STYLE>
+</HEAD>
+<BODY>
+<DIV>
+<P>This is 1st DIV Tag</P>
+</DIV>
+<DIV>
+<P>This is 2nd DIV Tag</P>
+</DIV>
+<DIV>
+<P>This is 3rd DIV Tag</P>
+</DIV>
+</BODY>
+</HTML>
