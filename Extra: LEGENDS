@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE>Legends</TITLE>
+<STYLE>
+DIV {
+margin-left: 15px;
+margin-right: 10px;
+float: left;
+}
+BODY {
+background-image: url("https://68.media.tumblr.com/69a5b8dc5ad6608fb89f46fd8644ccb7/tumblr_nloh6sS4gN1ryhuh7o1_500.gif");
+background-size: 1280px 913px;
+}
+H1,U {
+margin-top: 50px;
+font-size: 50px;
+color: BLUE;
+}
+P {
+font-size: 25px;
+text-align: center;
+background-color: white;
+border-radius: 50px;
+}
+IMG {
+border: 5px solid black;
+border-radius: 50px;
+box-shadow: 15px 15px 25px #000000;
+}
+</STYLE>
+</HEAD>
+<BODY>
+<CENTER><U><H1>LEGENDS</H1></U></CENTER>
+<BR>
+<DIV >
+<IMG src="https://upload.wikimedia.org/wikipedia/commons/5/54/Bhagat_Singh_1929.jpg" alt="IMAGE_1" height="600px" width="380px">
+<P><i><b>Bhagat Singh</b></i></P>
+</DIV>
+<DIV>
+<IMG src="https://th.bing.com/th/id/OIP.C5MgCyxdjpLl226DTY4GVgHaKJ?pid=ImgDet&rs=1" alt="IMAGE_2" height="600px" width="380px">
+<P><i><b>Mahatma Gandhi</b></i></P>
+</DIV>
+<DIV>
+<IMG src="https://3.bp.blogspot.com/-HOyoODWMCQA/WXh2A3VluVI/AAAAAAAAAoU/pNn30ZsyXsgdx8ZhsoqViv-aVuEf12XKACLcBGAs/s1600/subhash-chandra-bose.jpg" alt="IMAGE_3" height="600px" width="380px">
+<P><i><b>Subhash Chandra Bose</b></i></P>
+</DIV>
+</BODY>
+</HTML>
